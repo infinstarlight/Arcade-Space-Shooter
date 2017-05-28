@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{4F85F2C7-AF40-486F-39AA-24C69A1CAA5C}|">
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/EnemyGeneratorScript.cs">
     <Files>
-      <File FileName="Assets/EnemyGeneratorScript.cs" Line="13" Column="23" />
+      <File FileName="Assets/EnemyGeneratorScript.cs" Line="14" Column="44" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
